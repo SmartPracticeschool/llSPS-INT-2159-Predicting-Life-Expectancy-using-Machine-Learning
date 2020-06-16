@@ -8,6 +8,7 @@ Life expectancy is a statistical measure of the average time a human being is ex
 ## GUI URLS:
 
 Life Expectancy with python: https://node-red-myappml.eu-gb.mybluemix.net/ui/#!/0?socketid=o10AUJR8mOzH8rbwAABo
+
 Life Expectancy without python: https://node-red-myappml.eu-gb.mybluemix.net/ui/#!/0?socketid=t1crLumB0-nnYpH3AABp
 
 ## Project Demonstration link
